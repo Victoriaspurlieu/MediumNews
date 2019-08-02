@@ -1,0 +1,19 @@
+{
+  "name": "mediumnews",
+  "version": "1.0.0",
+  "description": "MediumMagazineScrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "Scraped!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoriaspurlieu/MediumNews.git"
+  },
+  "author": "Viktoryia Shypitsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victoriaspurlieu/MediumNews/issues"
+  },
+  "homepage": "https://github.com/Victoriaspurlieu/MediumNews#readme"
+}
